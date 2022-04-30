@@ -34,7 +34,7 @@ button{
  color: rgba(236, 64, 103, 0.7);
 }
 #right{
- margin-left: 250px;
+ margin-left: 300px;
  display: flex;
 }
 .left b{
@@ -72,23 +72,239 @@ button{
  padding: 10px, 0;
  border: 1px solid rgba(236, 64, 103, 0.7);
 }
+.memories{
+ color: white;
+ width: 350px;
+ height: 200px;
+ background-image: url(./images/image\ 2.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.memories #top{
+ float: right;
+ font-size: small;padding-right: 10px;
+}
+.memories #bottom{
+ padding-top: 160px;
+ font-size: small;
+ padding-left: 10px;
+}
+.stories{
+ display: flex;
+ 
+}
+.block-2{
+ display: block;
+ margin-left: 100px;
+}
+#meeting{
+ margin-left: 100px;
+ display: flex;
+}
+#stories{
+ margin-left: 100px;
+}
+.block-2 button{
+ margin-left: 0;
+}
+.meeting{
+ color: white;
+ width: 350px;
+ height: 200px;
+ background-image: url(./images/image\ 3.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 40px;
+}
+#meeting .block-2{
+ margin-left: 0;
+}
+.meeting #top{
+ float: right;
+ font-size: small;
+ padding-right: 10px;
+}
+.meeting #bottom{
+ padding-top: 160px;
+ font-size: small;
+ padding-left: 10px;
+}
+ #btn1{
+ width: 200px;
+}
+.grad{
+ color: white;
+ width: 350px;
+ height: 200px;
+ background-image: url(./images/image\ 4.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.grad #top{
+ float: right;
+ font-size: small;
+ padding-right: 10px;
+}
+.grad #bottom{
+ padding-top: 160px;
+ font-size: small;
+ padding-left: 10px;
+}
+ .heading{
+ display: flex;
+ 
+}
+.heading p{
+ font-size: smaller;
+ padding-top: 17px;
+ padding-left: 3px;
+}
+.heading h4{
+ text-transform: capitalize;
+ padding-top: 5px;
+ background: linear-gradient(to right, lightgrey, white, white);
+ padding-right: 5px;
+}
+.project{
+ display: flex;
+ margin-left: 100px;
+ margin-top: 50px;
+}
+#btn2{
+ margin-left: 0;
+}
+.advert{
+ height: 255px;
+ width: 500px;
+ background-image: url(./images/image\ 9.png);
+ background-position: center;background-size: cover;
+ margin-top: 50px;
+ border-bottom: 2px solid lightgrey;
+ border-top: 1px solid lightgrey;
+ border-radius: 6px;
+}
+h5{
+ color: rgba(236, 64, 103, 0.7);
+ text-transform: capitalize;
+ font-size: x-large;
+}
+h5 b{
+ color: black;
+ font-size: small;
+}
+h6{
+ font-size:x-large;
+ color: rgba(236, 64, 103, 0.7);
+ margin-bottom: 0px;
+ margin-left: 100px;
+ margin-top: 100px;
+}
+#contacts{
+ display: flex;
+}
+#contacts button{
+ margin: 15px 0px;
 
+}
+#contacts #p_one{
+ margin-right: 15px;
+ margin-left: 100px;
+ font-weight: 550;
+}
+#contacts #p_two{
+ margin-left: 10px;
+ margin-right: 10px;
+}
+#contacts a{
+ text-decoration: none;
+ color: rgba(236, 64, 103, 0.7);
+}
+.fa-solid{
+ color: rgba(236, 64, 103, 0.7);
+}
+.footer{
+ margin-top: 100px;
+ padding-top:20px;
+ text-align: center;
+ height: 60px;
+ width: 1000px;
+ background-color: rgba(211, 211, 211, 0.4);
+}
+#headshoot{
+ background-image: url(./images/image\ 5.png);
+ height: 140px;
+ width: 190px;
+ border: none;
+ background-position: center;
+ background-size: cover;
+}
+#headshoot_1{
+ background-image: url(./images/image\ 6.png);
+ height: 140px;
+ width: 190px;
+ border: none;
+ background-position: center;
+ background-size: cover;
+}
+#headshoot_2{
+ background-image: url(./images/image\ 7.png);
+ height: 140px;
+ width: 190px;
+ border: none;
+ background-position: center;
+ background-size: cover;
+}
+#headshoot_3{
+ background-image: url(./images/image\ 8.png);
+ height: 140px;
+ width: 190px;
+ border: none;
+ background-position: center;
+ background-size: cover;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#headshoot p{
+ color: white;
+ padding-top: 120px;
+}
+#headshoot_1 p{
+ color: white;
+ padding-top: 120px;
+}
+#headshoot_2 p{
+ color: white;
+ padding-top: 120px;
+}
+#headshoot_3 p{
+ color: white;
+ padding-top: 120px;
+}
+.staff h2{
+ color: rgba(236, 64, 103, 0.7);
+ text-transform: capitalize;
+ font-size: small;
+}
+.staff p{
+ font-size: small;
+ margin-top: 0px;
+}
+.staff input{
+ background-color: rgba(236, 64, 103, 0.7);
+ border: none;
+ padding: 5px;
+ border-radius: 5px;
+ color: white;
+}
+.staff{
+ padding: 10px;
+}
+#teaching_staff{
+ display: flex;
+}
+#staff_info{
+ margin-left: 100px;
+}
 
