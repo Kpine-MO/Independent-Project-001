@@ -4,5 +4,5 @@
 <h1>Technologies used</h1>
 <p>HTML</p>
 <p>CSS</p>
-<h1>Contact Infomation</h1>
+<h1>Contact Infomation</h1> 
 <p>chrispine.oduor@student.moringaschool.com</p>
