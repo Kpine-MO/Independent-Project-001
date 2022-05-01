@@ -34,7 +34,7 @@ button{
  color: rgba(236, 64, 103, 0.7);
 }
 #right{
- margin-left: 300px;
+ margin-left: 700px;
  display: flex;
 }
 .left b{
@@ -42,7 +42,7 @@ button{
 }
 .info{
  display: flex;
- margin-left: 100px;
+ margin-left: 300px;
 }
 .info h3{
  text-transform: capitalize;
@@ -96,14 +96,14 @@ button{
 }
 .block-2{
  display: block;
- margin-left: 100px;
+ margin-left: 40px;
 }
 #meeting{
- margin-left: 100px;
+ margin-left: 300px;
  display: flex;
 }
 #stories{
- margin-left: 100px;
+ margin-left: 300px;
 }
 .block-2 button{
  margin-left: 0;
@@ -170,7 +170,7 @@ button{
 }
 .project{
  display: flex;
- margin-left: 100px;
+ margin-left: 300px;
  margin-top: 50px;
 }
 #btn2{
@@ -199,7 +199,7 @@ h6{
  font-size:x-large;
  color: rgba(236, 64, 103, 0.7);
  margin-bottom: 0px;
- margin-left: 100px;
+ margin-left: 300px;
  margin-top: 100px;
 }
 #contacts{
@@ -211,7 +211,7 @@ h6{
 }
 #contacts #p_one{
  margin-right: 15px;
- margin-left: 100px;
+ margin-left: 300px;
  font-weight: 550;
 }
 #contacts #p_two{
@@ -230,7 +230,7 @@ h6{
  padding-top:20px;
  text-align: center;
  height: 60px;
- width: 1000px;
+ width: 100%;
  background-color: rgba(211, 211, 211, 0.4);
 }
 #headshoot{
@@ -305,6 +305,6 @@ h6{
  display: flex;
 }
 #staff_info{
- margin-left: 100px;
+ margin-left: 300px;
 }
 
