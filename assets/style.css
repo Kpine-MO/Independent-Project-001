@@ -34,8 +34,12 @@ button{
  color: rgba(236, 64, 103, 0.7);
 }
 #right{
- margin-left: 700px;
+ margin-left: 600px;
  display: flex;
+}
+.nav-bar a{
+ text-decoration: none;
+ color: black;
 }
 .left b{
  color: black;
